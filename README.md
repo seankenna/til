@@ -1,6 +1,7 @@
 Today I learned...
 ====
-#### 2016-11-25: 
+#### 2016-11-28: Pad single digit times with a `0`: `('0' + start.getHours()).slice(-2)`
+#### 2016-11-25: How to connect a Redux store to a React Component using [connect()](https://github.com/reactjs/react-redux/blob/master/docs/api.md#connectmapstatetoprops-mapdispatchtoprops-mergeprops-options)
 #### 2016-11-24: Started using inline styling with ReactJS instead of CSS
 #### 2016-11-23: Used [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 #### 2016-11-22: `python -m SimpleHTTPServer` to start a simple Web Server hosting files in the current directory.  This is useful to see AngularJS changes immediately as opposed to restarting our DropWizard server.
