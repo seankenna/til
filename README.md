@@ -1,6 +1,6 @@
 Today I learned...
 ====
-#### 2016-12-01: 
+#### 2016-12-01: [AirBnB's Enzyme](https://github.com/airbnb/enzyme) for testing React Components
 #### 2016-11-30: How to e2e test with Selenium and Chrome using [Chromdriver](https://www.npmjs.com/package/chromedriver)
 #### 2016-11-29: browser.pause() with nightwatch
 #### 2016-11-28: Pad single digit times with a `0`: `('0' + start.getHours()).slice(-2)`
