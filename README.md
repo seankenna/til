@@ -1,5 +1,6 @@
 Today I learned...
 ====
+#### 2016-12-02: [Material UI Theme](https://github.com/ChrisRM/material-theme-jetbrains) for Intellij
 #### 2016-12-01: [AirBnB's Enzyme](https://github.com/airbnb/enzyme) for testing React Components
 #### 2016-11-30: How to e2e test with Selenium and Chrome using [Chromedriver](https://www.npmjs.com/package/chromedriver)
 #### 2016-11-29: browser.pause() with nightwatch
