@@ -1,5 +1,6 @@
 Today I learned...
 ====
+#### 2016-12-13: `cmd + l` in Chrome to go to the address bar. Baby steps to becoming mouse free.
 #### 2016-12-05: [Moment](momentjs.com) for all your Date handling needs
 #### 2016-12-02: [Material UI Theme](https://github.com/ChrisRM/material-theme-jetbrains) for Intellij
 #### 2016-12-01: [AirBnB's Enzyme](https://github.com/airbnb/enzyme) for testing React Components
