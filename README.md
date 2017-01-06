@@ -1,9 +1,9 @@
 Today I learned...
 ====
-#### 2017-01-06: Export insecure SSL Certificate (drag to desktop) and Always trust it through Keychain.
+#### 2017-01-06: Export insecure SSL Certificate (drag to desktop) and Always trust it through Keychain
 #### 2017-01-03: [Pull Merge Request from another Project](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/user/project/merge_requests.md#checkout-locally-by-modifying-gitconfig-for-a-given-repository)
-#### 2016-12-23: Use SNS, Lambda and Autoscaling Lifecycle Hooks to eliminate the need for an ELB by dynamically registering Instance IPs with a Route53 Record Set.
-#### 2016-12-13: `cmd + l` in Chrome to go to the address bar. Baby steps to becoming mouse free.
+#### 2016-12-23: Use SNS, Lambda and Autoscaling Lifecycle Hooks to eliminate the need for an ELB by dynamically registering Instance IPs with a Route53 Record Set
+#### 2016-12-13: `cmd + l` in Chrome to go to the address bar. Baby steps to becoming mouse free
 #### 2016-12-05: [Moment](momentjs.com) for all your Date handling needs
 #### 2016-12-02: [Material UI Theme](https://github.com/ChrisRM/material-theme-jetbrains) for Intellij
 #### 2016-12-01: [AirBnB's Enzyme](https://github.com/airbnb/enzyme) for testing React Components
