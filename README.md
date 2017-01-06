@@ -1,6 +1,7 @@
 Today I learned...
 ====
 #### 2017-01-06: Export insecure SSL Certificate (drag to desktop) and Always trust it through Keychain
+#### 2017-01-05: e2e testing with [WebDriveIO](http://webdriver.io/)
 #### 2017-01-03: [Pull Merge Request from another Project](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/user/project/merge_requests.md#checkout-locally-by-modifying-gitconfig-for-a-given-repository)
 #### 2016-12-23: Use SNS, Lambda and Autoscaling Lifecycle Hooks to eliminate the need for an ELB by dynamically registering Instance IPs with a Route53 Record Set
 #### 2016-12-13: `cmd + l` in Chrome to go to the address bar. Baby steps to becoming mouse free
