@@ -1,5 +1,6 @@
 Today I learned...
 ====
+#### 2017-01-13: Using AWS LaunchConfiguration UserData field to call Lambda
 #### 2017-01-06: Export insecure SSL Certificate (drag to desktop) and Always trust it through Keychain
 #### 2017-01-05: e2e testing with [WebDriveIO](http://webdriver.io/)
 #### 2017-01-03: [Pull Merge Request from another Project](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/user/project/merge_requests.md#checkout-locally-by-modifying-gitconfig-for-a-given-repository)
