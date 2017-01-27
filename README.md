@@ -1,5 +1,7 @@
 Today I learned...
 ====
+#### 2017-01-27: Writing unit tests with [Jasmine](https://jasmine.github.io/)
+#### 2017-01-26: C# mocking with [Moq](https://github.com/moq/moq)
 #### 2017-01-13: Using AWS LaunchConfiguration UserData field to call Lambda
 #### 2017-01-06: Export insecure SSL Certificate (drag to desktop) and Always trust it through Keychain
 #### 2017-01-05: e2e testing with [WebDriveIO](http://webdriver.io/)
