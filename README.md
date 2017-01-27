@@ -12,7 +12,7 @@ Today I learned...
 #### 2016-12-02: [Material UI Theme](https://github.com/ChrisRM/material-theme-jetbrains) for Intellij
 #### 2016-12-01: [AirBnB's Enzyme](https://github.com/airbnb/enzyme) for testing React Components
 #### 2016-11-30: How to e2e test with Selenium and Chrome using [Chromedriver](https://www.npmjs.com/package/chromedriver)
-#### 2016-11-29: browser.pause() with nightwatch
+#### 2016-11-29: browser.pause() with [Nightwatch](http://nightwatchjs.org/)
 #### 2016-11-28: Pad single digit times with a `0`: `('0' + start.getHours()).slice(-2)`
 #### 2016-11-25: How to connect a Redux store to a React Component using [connect()](https://github.com/reactjs/react-redux/blob/master/docs/api.md#connectmapstatetoprops-mapdispatchtoprops-mergeprops-options)
 #### 2016-11-24: Started using inline styling with ReactJS instead of CSS
