@@ -1,5 +1,6 @@
 Today I learned...
 ====
+#### 2017-03-02: Leading slash in [HTML links](http://webmasters.stackexchange.com/questions/56840/what-is-the-purpose-of-leading-slash-in-html-urls)
 #### 2017-02-22: Find all files edited by a user in git `git log --pretty="%H" --author="Sean Kenna" | while read commit_hash; do git show --oneline --name-only $commit_hash | tail -n+2; done | sort | uniq`
 #### 2017-02-21: [React Router](https://github.com/ReactTraining/react-router)
 #### 2017-02-03: Data analysis with iPython and [Jupyter](http://jupyter.org/)
