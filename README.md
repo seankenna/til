@@ -1,5 +1,6 @@
 Today I learned...
 ====
+#### 2017-03-20: [AssertJ](http://joel-costigliola.github.io/assertj/)
 #### 2017-03-03: `pbcopy` `pbpaste`, useful to pipe output to clipboard.
 #### 2017-03-02: Leading slash in [HTML links](http://webmasters.stackexchange.com/questions/56840/what-is-the-purpose-of-leading-slash-in-html-urls)
 #### 2017-02-22: Find all files edited by a user in git `git log --pretty="%H" --author="Sean Kenna" | while read commit_hash; do git show --oneline --name-only $commit_hash | tail -n+2; done | sort | uniq`
