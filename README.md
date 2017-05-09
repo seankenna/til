@@ -1,5 +1,6 @@
 Today I learned...
 ====
+#### 2017-05-04: Used [API-Designer](https://github.com/mulesoft/api-designer) to write and test RAML for an API
 #### 2017-04-11: Built a Slack Bot using Lambda & API Gateway
 #### 2017-03-20: [AssertJ](http://joel-costigliola.github.io/assertj/)
 #### 2017-03-03: `pbcopy` `pbpaste`, useful to pipe output to clipboard.
