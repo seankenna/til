@@ -1,5 +1,9 @@
 Today I learned...
 ====
+#### 2018-05-30: Finished a POC with ZooKeeper. Implemented writing and reading with [Apache Curator's Tree Cache](https://curator.apache.org/curator-recipes/tree-cache.html)
+#### 2018-04-14: Delivered a presentation to the wider organisation
+#### 2018-03-30: Facilitated team healtcheck
+#### 2018-02-14: Wrote small Golang programme that pulls from hacker-news. Based on [Tutorial](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
 #### 2017-08-02: `curl http://iamurl.com[1-n]` to call a URL n times
 #### 2017-05-04: Used [API-Designer](https://github.com/mulesoft/api-designer) to write and test RAML for an API
 #### 2017-04-11: Built a Slack Bot using Lambda & API Gateway
