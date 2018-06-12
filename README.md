@@ -1,5 +1,7 @@
 Today I learned...
 ====
+#### 2018-06-12: First time using [React Router DOM](https://reacttraining.com/react-router/web/guides/philosophy)
+#### 2018-06-09: Introduction to Isomorphic React
 #### 2018-05-30: Finished a POC with ZooKeeper. Implemented writing and reading with [Apache Curator's Tree Cache](https://curator.apache.org/curator-recipes/tree-cache.html)
 #### 2018-04-14: Delivered a presentation to the wider organisation
 #### 2018-03-30: Facilitated team healtcheck
