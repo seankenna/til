@@ -1,5 +1,6 @@
 Today I learned...
 ====
+#### 2018-06-25: [Start Intellij from Terminal](https://emmanuelbernard.com/blog/2017/02/27/start-intellij-idea-command-line/)
 #### 2018-06-13: [Jest Snapshot Testing](https://facebook.github.io/jest/docs/en/snapshot-testing.html)
 #### 2018-06-12: First time using [React Router DOM](https://reacttraining.com/react-router/web/guides/philosophy)
 #### 2018-06-09: Introduction to Isomorphic React
