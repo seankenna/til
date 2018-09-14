@@ -1,5 +1,6 @@
 Today I learned...
 ====
+#### 2018-09-14: Kill processes listening on a port: `lsof -n -i4TCP:5002 | grep LISTEN | awk '{ print $2 }' | xargs kill`
 #### 2018-06-27: [RestAssured](https://github.com/rest-assured/rest-assured/wiki/Usage#examples) for Integration Testing
 #### 2018-06-26: [Building a psychologically safe workplace](https://www.youtube.com/watch?v=LhoLuui9gX8)
 #### 2018-06-25: [Start Intellij from Terminal](https://emmanuelbernard.com/blog/2017/02/27/start-intellij-idea-command-line/)
